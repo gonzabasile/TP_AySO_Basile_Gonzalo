@@ -1,0 +1,67 @@
+ls -l
+cd repogit
+ls -l
+cd TP_AySO_Basile_Gonzalo/
+ls -l
+cat datos_url.txt
+git commit -m "ADD: agregado 1er
+ejercicio sobre datos_usuarios.txt"
+git config --global user.email basilegonzalo899@gmail.com
+git config --global user.name gonzabasile
+git commit -m "ADD: agregado 1er
+ejercicio sobre datos_usuarios.txt" 
+git add .
+ls -l
+git commit -m "ADD: agregado 1er
+ejercicio sobre datos_usuarios.txt" 
+git push
+git status
+git push
+git status
+git commit -m "ADD: agregado 1er
+ejercicio sobre datos_url.txt" 
+git config --global user.email "TU-email"
+git config --global user.email "basilegonzalo899@gmail.com"
+git config --global user.name "gonzabasile"
+git commit -m "ADD: agregado 1er
+ejercicio sobre datos_url.txt"
+git status
+git push
+grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuarios.txt
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+git add .
+git commit -m "ADD: agregado 1er
+ejercicio sobre datos_usuarios.txt"
+git status
+git push
+cat <<FIN >> README.md
+Alumno: Gonzalo Basile
+Division: 211
+Turno : Tarde
+FIN
+
+git add README.md datos_usuarios.txt
+git add README.md datos_usuario.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git status
+git push
+mkdir -p {material1/{uni1,uni2,uni3},material2/{uni1,uni2,uni3}}
+ls -l
+cd material1
+ls -l
+cd ..
+touch script.sh
+vim script.sh 
+./script.sh
+chmod 764 script.sh
+./ script.sh
+cat script.sh
+git add .
+git commit -m "ADD: Añadiendo script"
+git status
+git push
+history -a
+$HOME/.bash_history
+sudo $HOME/.bash_history
+history -a
